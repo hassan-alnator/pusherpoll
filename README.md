@@ -19,10 +19,11 @@ npm start
 
 ## App Info
 
-### Author
+### Authors
 
 Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Hasan Alnatour
+Anand marco
 
 ### Version
 
